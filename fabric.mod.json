@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "lindon-addon",
+  "version": "1.0.1",
+  "name": "Lindon Addon",
+  "description": "Custom Meteor addon for 6b6t",
+  "authors": [
+    "JakePlaque Or maraga123 on discord "
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "com.lindon.addon.LindonAddon"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "meteor-client": "*"
+  }
+}

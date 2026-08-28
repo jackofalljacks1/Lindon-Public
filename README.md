@@ -4,7 +4,7 @@
 i would never trust this motherfucker in my life, use at your own risk!
 
 ## Info
-ts is genuinely ass, it is not fucking worth using<br>
+ts is genuinely ass, it is not fucking worth using, its all fucking chatgpt code<br>
 this retard nn plaque told me i "stole code from other people", look at what he is doing now lmao<br>
 the client isnt buildable, i only decompiled the classes (but feel free to fork this repo and make it buildable)<br>
 cya

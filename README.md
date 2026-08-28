@@ -4,9 +4,9 @@
 i would never trust this motherfucker in my life, use at your own risk!
 
 ## Info
-ts is genuinely ass, it is not fucking worth using
-this retard nn plaque told me i "stole code from other people", look at what he is doing now lmao
+ts is genuinely ass, it is not fucking worth using<br>
+this retard nn plaque told me i "stole code from other people", look at what he is doing now lmao<br><br>
 
-the client isnt buildable, i only decompiled the classes (but feel free to fork this repo and make it buildable)
+the client isnt buildable, i only decompiled the classes (but feel free to fork this repo and make it buildable)<br><br>
 
 cya

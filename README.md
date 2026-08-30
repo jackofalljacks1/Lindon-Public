@@ -10,4 +10,4 @@ the client isnt buildable, i only decompiled the classes (but feel free to fork 
 cya
 
 ## Skidded projects i could identify
-it is a heavy blackout skid, thats the only one i could find (might update later)
+it is a blackout skid (as seen in autoez), thats the only one i could find (might update later)
